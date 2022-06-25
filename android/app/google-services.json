@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "734737565542",
+    "project_id": "beta-conquistando",
+    "storage_bucket": "beta-conquistando.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734737565542:android:28860381b00b3c60f42aa7",
+        "android_client_info": {
+          "package_name": "com.example.beta_conquistando"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734737565542-1cm696j6p6b7run668hocvlt5mfleefd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN34VMXqa-Jt18rRvyXtaK4MwBxwxqTFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734737565542-1cm696j6p6b7run668hocvlt5mfleefd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "734737565542-cg5ra5uq3nuru1mhjbmmqngu2769dugn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseAuthenticationTutorial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
